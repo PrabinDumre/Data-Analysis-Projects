@@ -6,9 +6,13 @@ Welcome to my Data Analysis Projects repository! This space is dedicated to show
 In this repository, you will find projects using:
 
 Python: Leveraging libraries like Pandas, NumPy, Matplotlib, and Scikit-learn for data manipulation, visualization, and machine learning.
+
 Power BI: Creating interactive dashboards and reports to visualize data trends and insights.
+
 MS Excel: Using advanced functions like VLOOKUP, HLOOKUP, XLOOKUP, pivot tables, and more for data analysis and reporting.
+
 SQL: Writing complex queries to extract, manipulate, and analyze data from relational databases.
+
 Tableau: Designing interactive visualizations to present data insights effectively.
 
 #  Projects
