@@ -32,5 +32,6 @@ SQL scripts and queries used for data extraction, transformation, and analysis.
 Tableau Projects
 Interactive dashboards and visualizations created in Tableau to showcase data storytelling.
 
-Feel free to reach out if you have any questions or feedback!
+
+# Feel free to reach out if you have any questions or feedback!
 
