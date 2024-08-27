@@ -1,0 +1,32 @@
+ Pancharanga Financial Dashboard
+
+ Project Overview
+The Pancharanga Financial Dashboard is an interactive visualization tool designed to provide insights into sales and customer data over multiple years. This project was developed to help businesses analyze their financial performance, understand customer trends, and make informed decisions based on visual data representation.
+
+ Features
+- Year-wise Data Representation: Visual representation of total sales for the years 2002, 2005, 2008, 2009, and 2010.
+- Invoice Details: A breakdown of total amounts for various invoice numbers.
+- Product Size Analysis: Sales distribution based on product sizes.
+- Customer Insights: Detailed view of customer IDs and their associated total sales.
+- Interactive Charts: Line, bar, and pie charts for a comprehensive analysis of data trends.
+
+ Files Included
+- `Dashboard`: Contains the interactive visual representation of the data.
+- `Raw Data`: The source data used for the dashboard visualization.
+- `Data Understanding`: Additional details related to the dataset.
+
+ Requirements
+- Microsoft Excel: To view and interact with the dashboard.
+- Python (Optional): If you want to manipulate or extend the dataset.
+
+ How to Use
+1. Open the `Dashboard` sheet to interact with the visualized data.
+2. Navigate through the various charts and tables to gain insights into the financial and sales data.
+3. Explore the `Raw Data` sheet for detailed data points used in the visualizations.
+
+ Future Enhancements
+- Integration of more recent data for continued analysis.
+- Adding predictive analytics features to forecast future sales trends.
+- Improved interactivity with drill-down capabilities for deeper insights.
+
+
